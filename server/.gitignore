@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Configuração do ambiente
+.env
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivo de variáveis de ambiente
+.env
+.env.dev
+.env.production
+.env.local
